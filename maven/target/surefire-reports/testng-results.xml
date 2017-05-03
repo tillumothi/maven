@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1954" started-at="2017-05-03T16:28:00Z" finished-at="2017-05-03T16:28:02Z">
+  <suite name="Suite" duration-ms="1997" started-at="2017-05-03T18:16:32Z" finished-at="2017-05-03T18:16:34Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1954" started-at="2017-05-03T16:28:00Z" finished-at="2017-05-03T16:28:02Z">
+    <test name="Test" duration-ms="1997" started-at="2017-05-03T18:16:32Z" finished-at="2017-05-03T18:16:34Z">
       <class name="maventest.Maveng">
-        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@3feb2dda]" name="BT" is-config="true" duration-ms="11" started-at="2017-05-03T17:28:00Z" finished-at="2017-05-03T17:28:00Z">
+        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@55de24cc]" name="BT" is-config="true" duration-ms="9" started-at="2017-05-03T19:16:32Z" finished-at="2017-05-03T19:16:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@3feb2dda]" name="TestingGIT" duration-ms="1794" started-at="2017-05-03T17:28:00Z" finished-at="2017-05-03T17:28:02Z">
+        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@55de24cc]" name="TestingGIT" duration-ms="1834" started-at="2017-05-03T19:16:32Z" finished-at="2017-05-03T19:16:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT -->
-        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@3feb2dda]" name="AT" is-config="true" duration-ms="131" started-at="2017-05-03T17:28:02Z" finished-at="2017-05-03T17:28:02Z">
+        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@55de24cc]" name="AT" is-config="true" duration-ms="145" started-at="2017-05-03T19:16:34Z" finished-at="2017-05-03T19:16:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
