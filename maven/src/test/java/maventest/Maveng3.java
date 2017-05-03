@@ -13,6 +13,14 @@ public class Maveng3 {
 		System.out.println("git test starts");
 	}
 	@Test
+	public void init11(){
+		System.out.println("geb");
+	}
+	@Test
+	public void init1(){
+		System.out.println("gebra");
+	}
+	@Test
 	public void init(){
 		System.out.println("giraffe");
 	}
