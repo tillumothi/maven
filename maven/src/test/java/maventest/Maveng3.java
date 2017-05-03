@@ -12,6 +12,10 @@ public class Maveng3 {
 	public void BT(){
 		System.out.println("git test starts");
 	}
+	@Test
+	public void init(){
+		System.out.println("giraffe");
+	}
   @Test
   public void TestingGIT() {
 	  //WebDriver driver=new FirefoxDriver();
