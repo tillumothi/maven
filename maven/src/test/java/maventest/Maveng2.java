@@ -24,6 +24,10 @@ public class Maveng2 {
 	  driver.get("https://www.google.co.uk/");
 	  System.out.println("GIT checking");
 	  }
+  @Test
+  public void test(){
+	  System.out.println("checking");
+  }
   @AfterTest
   public void AT(){
 	  driver.close();
