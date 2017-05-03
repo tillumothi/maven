@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="maventest.Maveng"/>
+      <class name="maventest.Maveng2"/>
+      <class name="maventest.Maveng3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Failed suite [Suite] -->
