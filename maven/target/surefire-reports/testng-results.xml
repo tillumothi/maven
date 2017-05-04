@@ -1,69 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="8" passed="8">
+<testng-results skipped="0" failed="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6850" started-at="2017-05-03T20:08:50Z" finished-at="2017-05-03T20:08:56Z">
+  <suite name="Suite" duration-ms="6163" started-at="2017-05-04T04:59:52Z" finished-at="2017-05-04T04:59:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6850" started-at="2017-05-03T20:08:50Z" finished-at="2017-05-03T20:08:56Z">
+    <test name="Test" duration-ms="6163" started-at="2017-05-04T04:59:52Z" finished-at="2017-05-04T04:59:59Z">
       <class name="maventest.Maveng2">
-        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng2@1b1cfb87]" name="TestingGIT" duration-ms="1452" started-at="2017-05-03T21:08:51Z" finished-at="2017-05-03T21:08:53Z">
+        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng2@6f43c82]" name="TestingGIT" duration-ms="1179" started-at="2017-05-04T05:59:55Z" finished-at="2017-05-04T05:59:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT -->
-        <test-method status="PASS" signature="TestingGIT1()[pri:0, instance:maventest.Maveng2@1b1cfb87]" name="TestingGIT1" duration-ms="671" started-at="2017-05-03T21:08:53Z" finished-at="2017-05-03T21:08:54Z">
+        <test-method status="PASS" signature="TestingGIT1()[pri:0, instance:maventest.Maveng2@6f43c82]" name="TestingGIT1" duration-ms="730" started-at="2017-05-04T05:59:56Z" finished-at="2017-05-04T05:59:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT1 -->
-        <test-method status="PASS" signature="test()[pri:0, instance:maventest.Maveng2@1b1cfb87]" name="test" duration-ms="0" started-at="2017-05-03T21:08:54Z" finished-at="2017-05-03T21:08:54Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:maventest.Maveng2@6f43c82]" name="test" duration-ms="0" started-at="2017-05-04T05:59:57Z" finished-at="2017-05-04T05:59:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- maventest.Maveng2 -->
       <class name="maventest.Maveng3">
-        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng3@821330f]" name="TestingGIT" duration-ms="2068" started-at="2017-05-03T21:08:54Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="TestingGIT" duration-ms="1431" started-at="2017-05-04T05:59:57Z" finished-at="2017-05-04T05:59:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT -->
-        <test-method status="PASS" signature="TestingGIT1()[pri:0, instance:maventest.Maveng3@821330f]" name="TestingGIT1" duration-ms="647" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="TestingGIT1()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="TestingGIT1" duration-ms="618" started-at="2017-05-04T05:59:58Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT1 -->
-        <test-method status="PASS" signature="init()[pri:0, instance:maventest.Maveng3@821330f]" name="init" duration-ms="0" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="init1()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="init1" duration-ms="0" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+        <test-method status="PASS" signature="init()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="init" duration-ms="0" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="test()[pri:0, instance:maventest.Maveng3@821330f]" name="test" duration-ms="0" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="init11()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="init11" duration-ms="0" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init11 -->
+        <test-method status="PASS" signature="test()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="test" duration-ms="0" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- maventest.Maveng3 -->
       <class name="maventest.Maveng">
-        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@34bde49d]" name="BT" is-config="true" duration-ms="11" started-at="2017-05-03T21:08:50Z" finished-at="2017-05-03T21:08:50Z">
+        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@821330f]" name="BT" is-config="true" duration-ms="11" started-at="2017-05-04T05:59:52Z" finished-at="2017-05-04T05:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng3@821330f]" name="BT" is-config="true" duration-ms="1" started-at="2017-05-03T21:08:50Z" finished-at="2017-05-03T21:08:50Z">
+        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng2@6f43c82]" name="BT" is-config="true" duration-ms="1" started-at="2017-05-04T05:59:52Z" finished-at="2017-05-04T05:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng2@1b1cfb87]" name="BT" is-config="true" duration-ms="0" started-at="2017-05-03T21:08:50Z" finished-at="2017-05-03T21:08:50Z">
+        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="BT" is-config="true" duration-ms="1" started-at="2017-05-04T05:59:52Z" finished-at="2017-05-04T05:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@34bde49d]" name="TestingGIT" duration-ms="1826" started-at="2017-05-03T21:08:50Z" finished-at="2017-05-03T21:08:51Z">
+        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@821330f]" name="TestingGIT" duration-ms="2120" started-at="2017-05-04T05:59:53Z" finished-at="2017-05-04T05:59:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT -->
-        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@34bde49d]" name="AT" is-config="true" duration-ms="14" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@821330f]" name="AT" is-config="true" duration-ms="22" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
-        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng2@1b1cfb87]" name="AT" is-config="true" duration-ms="16" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng2@6f43c82]" name="AT" is-config="true" duration-ms="17" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
-        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng3@821330f]" name="AT" is-config="true" duration-ms="122" started-at="2017-05-03T21:08:56Z" finished-at="2017-05-03T21:08:56Z">
+        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng3@5db6b9cd]" name="AT" is-config="true" duration-ms="12" started-at="2017-05-04T05:59:59Z" finished-at="2017-05-04T05:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
