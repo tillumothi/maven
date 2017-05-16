@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3709" started-at="2017-05-03T16:27:04Z" finished-at="2017-05-03T16:27:08Z">
+  <suite name="Default suite" duration-ms="4223" started-at="2017-05-16T11:07:09Z" finished-at="2017-05-16T11:07:13Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3709" started-at="2017-05-03T16:27:04Z" finished-at="2017-05-03T16:27:08Z">
+    <test name="Default test" duration-ms="4223" started-at="2017-05-16T11:07:09Z" finished-at="2017-05-16T11:07:13Z">
       <class name="maventest.Maveng">
-        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@20bd8be5]" name="BT" is-config="true" duration-ms="11" started-at="2017-05-03T17:27:04Z" finished-at="2017-05-03T17:27:04Z">
+        <test-method status="PASS" signature="BT()[pri:0, instance:maventest.Maveng@3b6d844d]" name="BT" is-config="true" duration-ms="8" started-at="2017-05-16T12:07:09Z" finished-at="2017-05-16T12:07:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@20bd8be5]" name="TestingGIT" duration-ms="3331" started-at="2017-05-03T17:27:04Z" finished-at="2017-05-03T17:27:07Z">
+        <test-method status="PASS" signature="TestingGIT()[pri:0, instance:maventest.Maveng@3b6d844d]" name="TestingGIT" duration-ms="1847" started-at="2017-05-16T12:07:09Z" finished-at="2017-05-16T12:07:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestingGIT -->
-        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@20bd8be5]" name="AT" is-config="true" duration-ms="197" started-at="2017-05-03T17:27:07Z" finished-at="2017-05-03T17:27:08Z">
+        <test-method status="PASS" signature="adding()[pri:0, instance:maventest.Maveng@3b6d844d]" name="adding" duration-ms="2334" started-at="2017-05-16T12:07:11Z" finished-at="2017-05-16T12:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:maventest.Maveng@3b6d844d]" name="AT" is-config="true" duration-ms="11" started-at="2017-05-16T12:07:13Z" finished-at="2017-05-16T12:07:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
       </class> <!-- maventest.Maveng -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

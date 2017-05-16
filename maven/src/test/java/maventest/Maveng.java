@@ -16,7 +16,14 @@ public class Maveng {
   public void TestingGIT() {
 	  //WebDriver driver=new FirefoxDriver();
 	  driver.get("https://www.google.co.uk/");
+	  driver.manage().window().maximize();
 	  System.out.println("GIT HUB CHECKING");
+  }
+  @Test
+  public void adding(){
+	  driver.get("http://www.bbc.co.uk/");
+	  driver.manage().window().maximize();
+
   }
   @AfterTest
   public void AT(){
